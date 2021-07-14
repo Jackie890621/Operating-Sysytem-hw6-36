@@ -1,5 +1,7 @@
 # Operating-Sysytem-hw6-36
 C
+## Textbook
+“Operating System Concepts,” Abraham Silberschatz, Peter B. Galvin, and Greg Gagne, JOHN WILEY & SONS. INC., 8th edition, 2010.
 ## Objective
 
 ![Screenshot from 2021-07-12 11-10-31](https://user-images.githubusercontent.com/66109376/125225422-db616e00-e301-11eb-9f08-e5e84324ce90.png)
